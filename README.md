@@ -10,7 +10,11 @@
 [![Textblob](https://img.shields.io/badge/textblob%20-0.15.3%20%20-yellow)](https://textblob.readthedocs.io/en/dev/)
 --------------------------------
 # NLP-App-Streamlit
-A Natural language processing app for sentiment analysis , text summarization ,language  translation , language identification 
+A Natural language processing app for 
+- sentiment analysis 
+- text summarization 
+- language  translation  
+- language identification 
 ### Features
   - uses vader sentiment analysis to show positive ,negative ,neutral sentiment.
   
