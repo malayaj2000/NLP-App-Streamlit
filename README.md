@@ -22,6 +22,10 @@ A Natural language processing app for
   
   - Textblob and Google API for language translation and identification.
 ------------------------ 
+### heroku Server
+  `https://nlpapp2021.herokuapp.com/`
+  link : [nlpapp2021](https://nlpapp2021.herokuapp.com/)
+------------------------
 ### How to run locally
 ##### 1.install [anaconda](https://www.anaconda.com/products/individual) in your system 
    
